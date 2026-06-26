@@ -8,7 +8,7 @@ This application demonstrates complete CRUD operations with a clean UI, server a
 
 ## 🚀 Live Demo
 
-🌐 **Live Website:** https://your-vercel-url.vercel.app
+🌐 **Live Website:** https://student-management-nextjs-orpin.vercel.app
 
 📂 **GitHub Repository:** https://github.com/AnanthaThota/student-management-nextjs.git
 
