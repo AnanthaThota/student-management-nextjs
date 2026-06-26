@@ -18,6 +18,8 @@ export default async function Home({
   // Search
   const search = params?.search || "";
 
+  console.log("serach",search)
+
   // Pagination
   const page = Number(params?.page || 1);
   const pageSize = 5;
